@@ -1,5 +1,5 @@
 # NOTE: record from https://github.com/KellerJordan/modded-nanogpt/blob/master/records/track_1_short/2024-10-14_ModernArch/dabaaddd-237c-4ec9-939d-6608a9ed5e27.txt
-
+# NOTE: This is the original version of my nanogpt change. I changed the section with "optimizer2" and made it so that you manually change the momentum params
 import os
 import sys
 with open(sys.argv[0]) as f:
